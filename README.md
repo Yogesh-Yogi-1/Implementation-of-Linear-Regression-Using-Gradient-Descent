@@ -108,18 +108,18 @@ predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000, we predict a profit of $"+str(round(predict2,0)))
 ```
 ## Output:
-# Profit Prediction Graph:
+### Profit Prediction Graph:
 ![Screenshot 2024-09-04 084138](https://github.com/user-attachments/assets/6ded94df-9501-491b-aeaa-a7fd0bf9b4c9)
 ![Screenshot 2024-09-04 084348](https://github.com/user-attachments/assets/271380be-0fb1-4e8e-981d-b720b61ff9a5)
-# Compute Cost Value:
+### Compute Cost Value:
 ![Screenshot 2024-09-04 084436](https://github.com/user-attachments/assets/2240cd8f-c2ba-4402-b117-677c4952f31f)
-# h(X) Value:
+### h(X) Value:
 ![Screenshot 2024-09-04 084537](https://github.com/user-attachments/assets/a1d41f11-dc83-4a95-affb-9b7e199ffbc0)
-# Cost function using Gradient Descent Graph :
+### Cost function using Gradient Descent Graph :
 ![Screenshot 2024-09-04 084657](https://github.com/user-attachments/assets/bd09175c-5e4d-4d2a-8977-b7a72cb3e427)
-# Profit for the Population 35,000 :
+### Profit for the Population 35,000 :
 ![Screenshot 2024-09-04 084732](https://github.com/user-attachments/assets/d89bca37-213b-4e43-a059-3b13bb80d22d)
-# Profit for the Population 70,000 :
+### Profit for the Population 70,000 :
 ![Screenshot 2024-09-04 084838](https://github.com/user-attachments/assets/19904fa4-8ccd-4118-8f54-a337742e22b4)
 
 ## Result:
